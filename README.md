@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **a Study App**
 
-- 🌱 I’m currently learning **Frontend and Frameworks**
-
-- 📫 How to reach me **agoel50@asu.edu**
+- 🌱 I’m currently learning **Frameworks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
