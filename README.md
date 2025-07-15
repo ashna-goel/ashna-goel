@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashna Goel</h1>
-<h3 align="center">A passionate developer interested in Computer Science and Data Science</h3>
+<h3 align="center">Passionate Developer in Computer Science and Data Science</h3>
 
-- 🔭 I’m currently working on **a Study App**
+- 🔭 I’m currently working on **a Study App with various features**
 
 - 🌱 I’m currently learning **Frameworks**
 
