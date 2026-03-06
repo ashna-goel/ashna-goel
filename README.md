@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ashna Goel</h1>
 <h3 align="center">Developer in Computer Science and Data Science</h3>
-:
+
 - 🔭 I’m currently working on **FocusMate: a Study App**
 
 - 🌱 I’m currently learning **Frameworks**
